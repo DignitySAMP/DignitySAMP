@@ -2,9 +2,7 @@
 
 # 👋 Hi there
 
-I'm a passionate software developer and tech enthusiast. I currently work as a Full Stack Developer specializing in web applications. With over several years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
-
-My journey into software development began in early 2012, fueled by my passion for video games. After managing my own communities for over a decade, I decided to turn my lifelong passion into a career and pursued software development in 2023 which I graduated with high honors in 2025.
+I currently work as a Full Stack Developer specializing in web applications. My journey into software development began in early 2012, fueled by my passion for video games. After managing my own communities for over a decade, I decided to turn my lifelong passion into a career and pursued software development in 2023 which I graduated with high honors in 2025.
 
 > "Do you know the difference between an error and a mistake? Anyone can make an error, but that error doesn't become a mistake until you refuse to correct it." — Grand Admiral Thrawn
 
