@@ -4,16 +4,13 @@ I currently work as a Full Stack Developer specializing in web and mobile applic
 
 After managing my own communities and projects for over a decade, I decided to turn my lifelong passion into a career and pursued software development in 2023 from which I graduated magna cum laude in 2025.
 
-# 🖥️ Tech Stack
-
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
 [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
 [![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)](#)
-
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
 [![Nuxt.js](https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 [![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
