@@ -6,7 +6,6 @@ After managing my own communities and projects for over a decade, I decided to t
 
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
 [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
-[![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)](#)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-7d62db?style=flat-square&logo=inertia&logoColor=white)
