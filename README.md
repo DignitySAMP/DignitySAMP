@@ -9,7 +9,6 @@ After managing my own communities and projects for over a decade, I decided to t
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-![Inertia.js](https://img.shields.io/badge/Inertia.js-7d62db?style=flat-square&logo=inertia&logoColor=white)
+[![Inertia.js](https://img.shields.io/badge/Inertia.js-155dfc?logo=inertia&logoColor=fff)](#)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 [![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
